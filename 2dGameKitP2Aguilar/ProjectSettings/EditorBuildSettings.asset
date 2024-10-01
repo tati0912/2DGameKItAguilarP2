@@ -45,6 +45,12 @@ EditorBuildSettings:
     path: 
     guid: 2f940f82585e18b42b0512a994a12502
   - enabled: 1
-    path: Assets/NewScene.unity
+    path: 
     guid: a341347ecfade124f817cac8ea56a209
+  - enabled: 1
+    path: Assets/Scenes1.unity
+    guid: 93932e8b5fadc0c4091c74792f33a015
+  - enabled: 1
+    path: Assets/NewScene1.unity
+    guid: 96410beaf5c2c624d94829e63423c6a0
   m_configObjects: {}
